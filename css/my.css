@@ -1,0 +1,64 @@
+.text{
+}
+
+.text{
+    margin: 10px 5px;
+    color: crimson;
+    font-family: Arial; caption-side: initial;
+}
+
+.out {
+    width: 280px;
+    margin: 20px;
+}
+
+.head {
+    color: color(#555555);
+}
+
+.litl{
+    width: 32px;
+    height: 32px;
+    margin: 10px 5px;
+}
+.line_block {
+    width: 210px;
+    height:210px;
+    background:#ffffff;
+    float:left;
+    margin: 0 15px 15px 0;
+    text-align:center;
+   padding-block: auto;
+}
+
+.color{
+    background-color: lightgray;
+    width: auto;
+    size: auto;
+}
+.fon{
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-image: url("https://tpc.googlesyndication.com/daca_images/simgad/9369106744739753097");
+    background-color: #000;
+    background-attachment: fixed;
+
+}
+
+h1{
+    font-family: initial; caret-color: crimson;
+}
+h3{
+    margin-left: 50px;
+    color: darkred;
+    font-family: Arial;
+}
+
+a {
+    color: crimson;
+}
+
+.top{
+    width: 220px;
+    height: 240px;
+}
