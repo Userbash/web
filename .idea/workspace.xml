@@ -30,19 +30,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/my.css">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="507">
+              <caret line="71" column="38" selection-start-line="66" selection-end-line="72" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts/contacts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/products/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="541">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/safario/safario/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -52,28 +73,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="XSLT Stylesheet" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/opitel-kingston.html" />
         <option value="$PROJECT_DIR$/css/my.css" />
+        <option value="$PROJECT_DIR$/css/contacts.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contacts/contacts.html" />
+        <option value="$PROJECT_DIR$/products/shop.html" />
       </list>
     </option>
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="240" />
     <option name="y" value="90" />
     <option name="width" value="1260" />
@@ -90,12 +117,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,11 +143,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,17 +176,19 @@
       <updated>1562673142949</updated>
       <workItem from="1562673161105" duration="20112000" />
       <workItem from="1562756102602" duration="1383000" />
+      <workItem from="1562760895575" duration="3251000" />
+      <workItem from="1563269899665" duration="6679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21495000" />
+    <option name="totallyTimeSpent" value="31425000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="1" width="1260" height="703" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2828619" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2891374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,38 +200,49 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" weight="0.32935917" />
     </layout>
     <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24962743" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18370607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32984293" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32935917" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/404.html">
@@ -212,17 +266,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my.xsl" />
     <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://D:/Open-Server/OSPanel/domains/localhost/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/my.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opitel-kingston.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/safario/safario/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="507">
+          <caret line="71" column="38" selection-start-line="66" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contacts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>

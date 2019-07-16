@@ -21,14 +21,32 @@
     height: 32px;
     margin: 10px 5px;
 }
+
+.litl2{
+    width: 130px;
+    height: 120px;
+    margin: 1px 5px;
+}
+
 .line_block {
-    width: 210px;
-    height:210px;
+     width: 210px;
+     height:210px;
+     background:#ffffff;
+     float:left;
+     margin: 0 15px 15px 0;
+     text-align:center;
+     padding-block: auto;
+ }
+
+
+.line_block.mini {
+    width: 240px;
+    height: 240px;
     background:#ffffff;
     float:left;
     margin: 0 15px 15px 0;
     text-align:center;
-   padding-block: auto;
+    padding-block: auto;
 }
 
 .color{
